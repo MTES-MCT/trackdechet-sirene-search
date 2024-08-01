@@ -64,6 +64,6 @@
     "dd-trace": "^3.28.0",
     "fast-csv": "^4.3.6",
     "node-stream-zip": "^1.15.0",
-    "winston": "^3.11.0"
+    "winston": "^3.13.1"
   }
 }
